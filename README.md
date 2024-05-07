@@ -9,3 +9,8 @@ and [Navigation](https://developer.android.com/topic/libraries/architecture/navi
 
 Screenshots
 ------------
+<p align="center">
+  <img src="https://github.com/collinsonindo/Inventory-App/blob/master/Screenshot.jpeg" width="300" alt="Screenshot">
+  <img src="https://github.com/collinsonindo/Inventory-App/blob/master/Screenshot1.jpeg" width="300" alt="Screenshot">
+  <img src="https://github.com/collinsonindo/Inventory-App/blob/master/Screenshot2.jpeg" width="300" alt="Screenshot">
+</p>
