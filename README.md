@@ -16,4 +16,5 @@ App Screenshots
 </p>
 
 Database Snippet
+------------
 <img src="https://github.com/collinsonindo/Inventory-App/blob/master/Screenshot%20(162).png" alt="Screenshot">
